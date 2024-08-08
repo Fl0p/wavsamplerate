@@ -12,6 +12,9 @@
 		C601C9782C6383A0009A89B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C601C9772C6383A0009A89B9 /* Assets.xcassets */; };
 		C601C97B2C6383A0009A89B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C601C97A2C6383A0009A89B9 /* Preview Assets.xcassets */; };
 		C601C9822C6383BC009A89B9 /* audio.wav in Resources */ = {isa = PBXBuildFile; fileRef = C601C9812C6383BC009A89B9 /* audio.wav */; };
+		DBC811372C63F544004E8401 /* audio_1_48.wav in Resources */ = {isa = PBXBuildFile; fileRef = DBC811332C63F543004E8401 /* audio_1_48.wav */; };
+		DBC8113A2C63F544004E8401 /* audio_1_16.wav in Resources */ = {isa = PBXBuildFile; fileRef = DBC811362C63F544004E8401 /* audio_1_16.wav */; };
+		DBC8113C2C64098A004E8401 /* audio_2_48.wav in Resources */ = {isa = PBXBuildFile; fileRef = DBC8113B2C64098A004E8401 /* audio_2_48.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +24,9 @@
 		C601C9772C6383A0009A89B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C601C97A2C6383A0009A89B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C601C9812C6383BC009A89B9 /* audio.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audio.wav; sourceTree = "<group>"; };
+		DBC811332C63F543004E8401 /* audio_1_48.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audio_1_48.wav; sourceTree = "<group>"; };
+		DBC811362C63F544004E8401 /* audio_1_16.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audio_1_16.wav; sourceTree = "<group>"; };
+		DBC8113B2C64098A004E8401 /* audio_2_48.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audio_2_48.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 		C601C9722C63839F009A89B9 /* wavsamplerate */ = {
 			isa = PBXGroup;
 			children = (
+				DBC8113B2C64098A004E8401 /* audio_2_48.wav */,
+				DBC811332C63F543004E8401 /* audio_1_48.wav */,
+				DBC811362C63F544004E8401 /* audio_1_16.wav */,
 				C601C9812C6383BC009A89B9 /* audio.wav */,
 				C601C9732C63839F009A89B9 /* wavsamplerateApp.swift */,
 				C601C9752C63839F009A89B9 /* ContentView.swift */,
@@ -129,6 +138,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C601C97B2C6383A0009A89B9 /* Preview Assets.xcassets in Resources */,
+				DBC8113A2C63F544004E8401 /* audio_1_16.wav in Resources */,
+				DBC811372C63F544004E8401 /* audio_1_48.wav in Resources */,
+				DBC8113C2C64098A004E8401 /* audio_2_48.wav in Resources */,
 				C601C9822C6383BC009A89B9 /* audio.wav in Resources */,
 				C601C9782C6383A0009A89B9 /* Assets.xcassets in Resources */,
 			);
