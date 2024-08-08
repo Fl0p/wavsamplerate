@@ -1,0 +1,6 @@
+Pods
+.DS_Store
+
+# xcode noise
+build/*
+xcuserdata
